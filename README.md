@@ -1,6 +1,6 @@
 # Graph Prefix
 ## Dependencies
-'''
+```
 pip install numpy tqdm
 pip install torch torchvision
 pip install transformers nltk spacy
@@ -14,5 +14,5 @@ pip install torch-cluster
 pip install torch-sparse
 pip install torch-spline-conv
 pip install torch-geometric
-'''
+```
 ## Download data
