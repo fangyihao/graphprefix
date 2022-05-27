@@ -1,4 +1,7 @@
 # Graph Prefix
+
+![High Level Methodology](high_level_methodology.jpg)
+
 ## Dependencies
 ```
 pip install numpy tqdm
