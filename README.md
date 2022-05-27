@@ -1,4 +1,4 @@
-# Graph Prefix
+# Graph Reasoning Prefix for Language Model Question Answering
 
 ![High Level Methodology](high_level_methodology.jpg)
 
