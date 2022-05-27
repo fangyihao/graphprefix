@@ -42,3 +42,8 @@ The resulting file structure should look like this:
 ```
 CUDA_VISIBLE_DEVICES=0 ./run_prefix_fusion.sh csqa --data_dir data/ --inhouse False
 ```
+
+## Evaluating
+```
+CUDA_VISIBLE_DEVICES=0 ./eval_prefix_fusion.sh csqa --data_dir data/ --inhouse False --load_model_path /path/to/checkpoint
+```
