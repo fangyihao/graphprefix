@@ -38,3 +38,7 @@ The resulting file structure should look like this:
     ├── medqa_usmle/
     └── ddb/
 ```
+## Training
+```
+CUDA_VISIBLE_DEVICES=0 ./run_prefix_fusion.sh csqa --data_dir data/ --inhouse False
+```
