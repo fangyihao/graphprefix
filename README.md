@@ -19,7 +19,7 @@ pip install torch-spline-conv
 pip install torch-geometric
 ```
 ## Download data
-You can download all the preprocessed data [here](https://drive.google.com/drive/folders/1T6B4nou5P3u-6jr0z6e3IkitO8fNVM6f?usp=sharing). Download them into the top-level directory of this repo and unzip them. Move the medqa_usmle and ddb folders into the data/ directory.
+You can download all the preprocessed data [here](https://drive.google.com/drive/folders/1T6B4nou5P3u-6jr0z6e3IkitO8fNVM6f?usp=sharing). Download data_preprocessed.zip and data_preprocessed_biomed.zip into the top-level directory of this repo and unzip them. Move the medqa_usmle and ddb folders into the data/ directory.
 
 The resulting file structure should look like this:
 ```
