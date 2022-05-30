@@ -6,7 +6,7 @@
 ```
 pip install numpy tqdm
 pip install torch torchvision
-pip install transformers nltk spacy
+pip install transformers==4.11 nltk spacy
 pip install wandb
 pip install tensorboardx
 pip install tensorboard
